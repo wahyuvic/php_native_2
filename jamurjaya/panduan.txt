@@ -1,0 +1,4 @@
+siapkan komponen bowser xampp,vs code/notepad dan text edior lainya
+upload database di mysql
+taruh folder di htdoct
+jalankan dan develop aplikasi
